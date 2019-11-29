@@ -39,7 +39,7 @@
  [],
  False,
  False,
- 1575067114,
+ 1575067258,
  [('run',
    '/Users/maxime/Documents/msc/pool/delivery/IA_gomoku_2019/venv/lib/python3.7/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
    'EXECUTABLE')])

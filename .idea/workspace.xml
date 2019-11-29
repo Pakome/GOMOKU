@@ -3,12 +3,42 @@
   <component name="ChangeListManager">
     <list default="true" id="df5a0814-acb6-453b-bca4-2cf6e3f0e3c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pbrain-STG-LardHon.exe/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pbrain-STG-LardHon.exe/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pbrain-STG-LardHon.exe/PKG-00.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pbrain-STG-LardHon.exe/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pbrain-STG-LardHon.exe/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pbrain-STG-LardHon.exe/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pbrain-STG-LardHon.exe/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pbrain-STG-LardHon.exe/warn-pbrain-STG-LardHon.exe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pbrain-STG-LardHon.exe/xref-pbrain-STG-LardHon.exe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/COLLECT-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/test" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/warn-test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/warn-test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test/xref-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/test/xref-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/pbrain-STG-LardHon.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/test/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dist/test/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/test/test" beforeDir="false" afterPath="$PROJECT_DIR$/dist/test/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pbrain-STG-LardHon.exe.spec" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
